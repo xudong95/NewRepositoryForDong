@@ -11,5 +11,5 @@ spring:
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
 lagou:
-  message: 
+  message: hello  lagou!
 #避免将驼峰命名转换为下划线命名
