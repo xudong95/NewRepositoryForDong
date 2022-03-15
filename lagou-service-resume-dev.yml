@@ -10,4 +10,6 @@ spring:
     hibernate:
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+lagou:
+  message: 
 #避免将驼峰命名转换为下划线命名
